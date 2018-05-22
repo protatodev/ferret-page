@@ -1,12 +1,12 @@
-# _{Ferret-Page}_
+# _Ferret-Page_
 
-#### _{Webpage with info for potential ferret owners}, {05.21.2018}_
+#### _Webpage with info for potential ferret owners, 05.21.2018_
 
-#### By _**{Protatodev}**_
+#### By _**Protatodev**_
 
 ## Description
 
-_{This webpage exists to provide information to the potential ferret owner. The page attempts to cover care, behaviors, and characteristics of ferrets. Ferret's are wonderful creatures, and this website attempts to inform people about all of the fun and not-so-fun characteristics of owning a ferret. }_
+_This webpage exists to provide information to the potential ferret owner. The page attempts to cover care, behaviors, and characteristics of ferrets. Ferret's are wonderful creatures, and this website attempts to inform people about all of the fun and not-so-fun characteristics of owning a ferret._
 
 ## Setup/Installation Requirements
 
@@ -14,22 +14,22 @@ _{This webpage exists to provide information to the potential ferret owner. The 
 * _Open the ferret-page.html file to view the page_
 * _Enjoy!_
 
-_{If you have any feedback or questions / concerns. Please feel free to let me know. I will address these as quickly as possible.}_
+_If you have any feedback or questions / concerns. Please feel free to let me know. I will address these as quickly as possible._
 
 ## Known Bugs
 
-_{No currently known bugs exist. }_
+_No currently known bugs exist._
 
 ## Support and contact details
 
-_{Contact me with any questions / concerns.}_
+_Contact me with any questions / concerns._
 
 ## Technologies Used
 
-_{Page was designed purely using HTML.}_
+_Page was designed purely using HTML._
 
 ### License
 
-*{This page is licensed under the MIT license.}*
+*This page is licensed under the MIT license.*
 
-Copyright (c) 2018 **_{Protatodev}_**
+Copyright (c) 2018 **_Protatodev_**
